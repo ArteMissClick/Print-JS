@@ -15,7 +15,6 @@ const slides = [
 		"image":"slide4.png",
 		"tagLine":"Autocollants <span>avec découpe laser sur mesure</span>"
 	}
-	,
 ]
 
 // Fonction pour la sélection et la mise en forme de la slide active
